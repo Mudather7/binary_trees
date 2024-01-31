@@ -17,7 +17,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	return ((size_t)count);
 }
 /**
- * height - count tree height
+ * tree_height - count tree height
  *
  * @node: node to measure
  *
